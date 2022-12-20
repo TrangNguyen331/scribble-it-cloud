@@ -15,7 +15,7 @@ Project for Cloud Computing
 
 https://trangnguyen331.github.io/scribble-it-cloud
 
-<img src="https://github.com/TrangNguyen331/scribble-it-cloud/tree/master/capture/capture.png" width="1000"></img>
+<img src="https://raw.githubusercontent.com/TrangNguyen331/scribble-it-cloud/master/capture/capture.png" width="1000"></img>
 
 # Author 
 - > [Trang Nguyen](https://github.com/TrangNguyen331/scribble-it-cloud)
